@@ -1,0 +1,12 @@
+{
+  "contactUrl": "https://wa.me/967775278536",
+  "ads": [
+    {
+      "title": "عنوان الإعلان هنا",
+      "advertiser": "اسم الجهة المعلنة",
+      "description": "وصف مختصر للخدمة أو المنتج .",
+      "cta": "اعرف المزيد",
+      "url": "https://example.org/link"
+    }
+  ]
+}
